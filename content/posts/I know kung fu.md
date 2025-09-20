@@ -46,7 +46,6 @@ I K K F = I Know Kung Fu... :)
 - Reading pane, options pane, and notes pane can be toggled on/off for better visibility
 - Font, background color, and overall color scheme are all customizable
 - Added font selection
-
 - Add save support for other filetypes
 - Add ability to take .html files, such as the ones captured by [Shiori](https://github.com/go-shiori/shiori)
 - Add ability to take epub files

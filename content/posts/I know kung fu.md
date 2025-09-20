@@ -1,6 +1,6 @@
 ---
 title: I know kung fu
-description: '<a href="../posts/I-K-K-F-!">IKKF</a>: An RSVP reader with extra features such as capturing highlights and taking notes.'
+description: '<a href="../I-K-K-F-!">IKKF</a>: An RSVP reader with extra features such as capturing highlights and taking notes.'
 date: 2025-09-20T12:55:26+00:00
 draft: false
 ---

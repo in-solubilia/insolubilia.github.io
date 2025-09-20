@@ -1,7 +1,7 @@
 ---
-title: "I know kung fu"
-description: 
-date: "2025-09-20T12:55:26+00:00"
+title: I know kung fu
+description: "[[[IKKF](../posts/I-K-K-F-!)]]: an RSVP reader with extra features such as capturing highlights and taking notes. This tool is meant to be usable both online and offline. CSS/HTML/Javascript are all on the page-- if you want, you can save it and use it on your own."
+date: 2025-09-20T12:55:26+00:00
 draft: false
 ---
 [[[IKKF](../posts/I-K-K-F-!)]]: an RSVP reader with extra features such as capturing highlights and taking notes. This tool is meant to be usable both online and offline. CSS/HTML/Javascript are all on the page-- if you want, you can save it and use it on your own.

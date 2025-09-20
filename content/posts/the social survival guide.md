@@ -1,6 +1,6 @@
 ---
 title: the social survival guide
-description: One would hope that life is not a consecutive series of hostage situations
+description: One would hope that life is not a consecutive series of hostage situations.
 date: 2025-09-19T08:34:42+00:00
 draft: false
 ---

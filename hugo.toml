@@ -2,3 +2,8 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'insolubilia'
 theme = 'archie'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+

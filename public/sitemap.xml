@@ -2,16 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.org/posts/i-know-kung-fu/</loc>
+    <lastmod>2025-09-20T12:55:26+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/</loc>
-    <lastmod>2025-09-19T08:34:42+00:00</lastmod>
+    <lastmod>2025-09-20T12:55:26+00:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/</loc>
-    <lastmod>2025-09-19T08:34:42+00:00</lastmod>
+    <lastmod>2025-09-20T12:55:26+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/a-phone-should-be-a-joy-to-use/</loc>
+    <lastmod>2025-09-20T12:55:22+00:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/the-social-survival-guide/</loc>
     <lastmod>2025-09-19T08:34:42+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/a-phone-should-be-a-joy-to-use/</loc>
   </url><url>
     <loc>https://example.org/posts/i-k-k-f-/</loc>
   </url><url>

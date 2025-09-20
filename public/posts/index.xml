@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on insolubilia</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on insolubilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Sep 2025 12:55:26 +0000</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I know kung fu</title>
-      <link>https://example.org/posts/i-know-kung-fu/</link>
+      <link>http://localhost:1313/posts/i-know-kung-fu/</link>
       <pubDate>Sat, 20 Sep 2025 12:55:26 +0000</pubDate>
-      <guid>https://example.org/posts/i-know-kung-fu/</guid>
+      <guid>http://localhost:1313/posts/i-know-kung-fu/</guid>
       <description>IKKF: An RSVP reader with extra features such as capturing highlights and taking notes. This tool is meant to be usable both online and offline. CSS/HTML/Javascript are all on the page&amp;ndash; if you want, you can save it and use it on your own.&#xA;RSVP, or rapid serial visual presentation, is a method of speedreading where the words are displayed on the screen one at a time for a set amount of milliseconds.</description>
     </item>
     <item>
       <title>a phone should be a joy to use</title>
-      <link>https://example.org/posts/a-phone-should-be-a-joy-to-use/</link>
+      <link>http://localhost:1313/posts/a-phone-should-be-a-joy-to-use/</link>
       <pubDate>Sat, 20 Sep 2025 12:55:22 +0000</pubDate>
-      <guid>https://example.org/posts/a-phone-should-be-a-joy-to-use/</guid>
+      <guid>http://localhost:1313/posts/a-phone-should-be-a-joy-to-use/</guid>
       <description></description>
     </item>
     <item>
       <title>the social survival guide</title>
-      <link>https://example.org/posts/the-social-survival-guide/</link>
+      <link>http://localhost:1313/posts/the-social-survival-guide/</link>
       <pubDate>Fri, 19 Sep 2025 08:34:42 +0000</pubDate>
-      <guid>https://example.org/posts/the-social-survival-guide/</guid>
+      <guid>http://localhost:1313/posts/the-social-survival-guide/</guid>
       <description>I am not a personable person. I also cannot speak French, operate a forklift, or bench press five hundred pounds. These are not unattainable, solely innate gifts that I lack; they are skills I can learn. (Some would take more time, effort, and steroids to succeed at than others.)&#xA;The purpose of this site is to collate and reinforce information that I gather about living socially, as well as to allow myself to develop my own opinions on how to use it as I learn.</description>
     </item>
   </channel>

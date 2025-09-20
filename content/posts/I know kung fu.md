@@ -6,8 +6,6 @@ draft: false
 ---
 <a href="../I-K-K-F-!">IKKF</a>: An RSVP reader with extra features such as capturing highlights and taking notes. This tool is meant to be usable both online and offline. CSS/HTML/Javascript are all on the page-- if you want, you can save it and use it on your own.
 
-  
-
 RSVP, or rapid serial visual presentation, is a method of speedreading where the words are displayed on the screen one at a time for a set amount of milliseconds. I like it. I think it's good for getting through the news, with larger "chunks" (more than one word at a time) preferable for denser prose. I wouldn't recommend it, of course, if you're looking forward to luxuriating in Literature, but it is good for just getting the reading done.
 
 I like taking notes as I read, and in most RSVP programs I've tried, if I wanted to directly quote the text, then I would have to go search for the string in the source and copy it out. So, I made this tool to add more notetaking/highlighting functionalities on top of the existing RSVP method.

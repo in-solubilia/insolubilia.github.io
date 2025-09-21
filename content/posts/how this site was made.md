@@ -20,13 +20,12 @@ After getting Hugo set up, my Github repo set up, and my Render account set up a
 rsync -az --delete-after "Obsidian/MyNotes/WebsitePosts/" "MyWebsite/content/posts/"
 cd quickstart
 git init 
-hugo server --buildDrafts --cleanDestinationDir --renderToDisk --baseURL=https://insolubilia.blog/ --appendPort=false 
+hugo server --buildDrafts --cleanDestinationDir --renderToDisk --baseURL=https://insolubilia.blog/--appendPort=false 
 git add . --all
 git commit -a -m "new commit"
 git branch -M main
 git remote add origin https://github.com/path/to/my/repo
 git push -f -u origin main
-
 ```
 
 I don't particularly care about version control on my website, so I felt OK with just having the repo folder directly match the Hugo build, and to have the Hugo posts folder directly match the Obsidian folder, and with having Hugo clean up the ten billion CSS files it made as I was messing around with the layout. I also ran into the default Hugo settings plugging my baseURL in correctly about 75% of the time and having a few links still go to localhost after publishing, so the extra commands on the Hugo server line are to fix that. These commands may be redundant or badly constructed. I am totally new to using Hugo + an amateur at Linux, so I am here primarily by the good graces of the tutorial and a mosiac of search results.

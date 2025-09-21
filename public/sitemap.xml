@@ -19,6 +19,8 @@
   </url><url>
     <loc>https://example.org/ikkf/</loc>
   </url><url>
+    <loc>https://example.org/posts/this-is-a-test/</loc>
+  </url><url>
     <loc>https://example.org/categories/</loc>
   </url><url>
     <loc>https://example.org/tags/</loc>

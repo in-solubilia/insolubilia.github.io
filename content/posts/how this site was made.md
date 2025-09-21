@@ -69,3 +69,5 @@ And added to the css (`MyWebsite/themes/archie/assets/css/main.css)`:
 	outline: 10px outset var(--accent);
 	}
 ```
+
+I may update this document as I make further tweaks to the config.

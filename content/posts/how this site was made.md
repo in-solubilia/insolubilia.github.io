@@ -43,14 +43,7 @@ This site's theme is an adjusted version of [Archie](https://github.com/athul/ar
 		<div class="logo"><img src="{{ absURL "../flammarion.png" }}"></img></div>
 	</div>
 	<nav>
-		{{ range .Site.Menus.main }}
-		<a href="{{ .URL }}">{{ .Name }}</a>
-		{{ end }}
-		{{ if eq .Site.Params.mode "toggle" -}}
-	| <span id="dark-mode-toggle" onclick="toggleTheme()">{{template "feathericon" (dict "UseCDN" .Site.Params.useCDN "Icon" "sun") }}</span>
-		<script src="{{ absURL "js/themetoggle.js" }}"></script>
-		{{ end }}
-	</nav>
+		...
 </header>
 
 ```

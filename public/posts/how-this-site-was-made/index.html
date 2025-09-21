@@ -68,14 +68,7 @@ git push -f -u origin main
 		&lt;div class=&#34;logo&#34;&gt;&lt;img src=&#34;{{ absURL &#34;../flammarion.png&#34; }}&#34;&gt;&lt;/img&gt;&lt;/div&gt;
 	&lt;/div&gt;
 	&lt;nav&gt;
-		{{ range .Site.Menus.main }}
-		&lt;a href=&#34;{{ .URL }}&#34;&gt;{{ .Name }}&lt;/a&gt;
-		{{ end }}
-		{{ if eq .Site.Params.mode &#34;toggle&#34; -}}
-	| &lt;span id=&#34;dark-mode-toggle&#34; onclick=&#34;toggleTheme()&#34;&gt;{{template &#34;feathericon&#34; (dict &#34;UseCDN&#34; .Site.Params.useCDN &#34;Icon&#34; &#34;sun&#34;) }}&lt;/span&gt;
-		&lt;script src=&#34;{{ absURL &#34;js/themetoggle.js&#34; }}&#34;&gt;&lt;/script&gt;
-		{{ end }}
-	&lt;/nav&gt;
+		...
 &lt;/header&gt;
 </code></pre><p>And added to the css (<code>MyWebsite/themes/archie/assets/css/main.css)</code>:</p>
 <pre tabindex="0"><code>.logo {

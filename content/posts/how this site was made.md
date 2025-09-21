@@ -48,7 +48,7 @@ This site's theme is an adjusted version of [Archie](https://github.com/athul/ar
 
 ```
 
-And added to the css (`MyWebsite/themes/archie/assets/css/main.css)`:
+And added to the css (`MyWebsite/themes/archie/assets/css/main.css`):
 
 ```
 .logo {

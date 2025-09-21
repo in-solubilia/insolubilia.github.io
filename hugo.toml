@@ -6,4 +6,4 @@ theme = 'archie'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-unsafe = true
+

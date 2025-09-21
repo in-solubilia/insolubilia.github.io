@@ -18,7 +18,7 @@
 	
 
 	
-	<link rel="stylesheet" type="text/css" media="screen" href="https://insolubilia.blog/css/main.d43e1ffe475ecb9ad925da0d2d60bef9dedea9c8969402279be55215d1da9949.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://insolubilia.blog/css/main.2ed15aaaac7a4609b945fd9bfd914f9c9f62b6e0b9c7c608f42a1a06bf274582.css" />
 </head>
 <body>
         <div class="content"><header>
@@ -52,7 +52,7 @@
 <pre tabindex="0"><code>rsync -az --delete-after &#34;Obsidian/MyNotes/WebsitePosts/&#34; &#34;MyWebsite/content/posts/&#34;
 cd quickstart
 git init 
-hugo server --buildDrafts --cleanDestinationDir --renderToDisk --baseURL=https://insolubilia.blog/ --appendPort=false 
+hugo --buildDrafts --cleanDestinationDir --baseURL=https://insolubilia.blog/ --appendPort=false 
 git add . --all
 git commit -a -m &#34;new commit&#34;
 git branch -M main

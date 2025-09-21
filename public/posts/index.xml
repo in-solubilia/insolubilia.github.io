@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on insolubilia</title>
-    <link>http://localhost:34961/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on insolubilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Sep 2025 14:27:15 +0000</lastBuildDate>
-    <atom:link href="http://localhost:34961/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>how this site was made</title>
-      <link>http://localhost:34961/posts/how-this-site-was-made/</link>
+      <link>http://localhost:1313/posts/how-this-site-was-made/</link>
       <pubDate>Sun, 21 Sep 2025 14:27:15 +0000</pubDate>
-      <guid>http://localhost:34961/posts/how-this-site-was-made/</guid>
+      <guid>http://localhost:1313/posts/how-this-site-was-made/</guid>
       <description>I like Neocities. Unfortunately, I am also lazy, and the (admittedly minimal) sequence of operations needed to upkeep Zonelets + ZoneRSS had me wondering if things could be easier.&#xA;4rkal has a fantastic guide for publishing an Obsidian vault to a website via Hugo, a Github repo, and Render, and this guide was pretty much all I needed, save for a few adjustments.&#xA;Obsidian is packed with features, which also leads to it having a reputation for a high learning curve; to either my own advantage or detriment, I hardly use any of them.</description>
     </item>
     <item>
       <title>ikkf!</title>
-      <link>http://localhost:34961/posts/ikkf/</link>
+      <link>http://localhost:1313/posts/ikkf/</link>
       <pubDate>Sat, 20 Sep 2025 12:55:26 +0000</pubDate>
-      <guid>http://localhost:34961/posts/ikkf/</guid>
+      <guid>http://localhost:1313/posts/ikkf/</guid>
       <description>IKKF: An RSVP reader with extra features such as capturing highlights and taking notes. This tool is meant to be usable both online and offline. CSS/HTML/Javascript are all on the page&amp;ndash; if you want, you can save it and use it on your own.&#xA;RSVP, or rapid serial visual presentation, is a method of speedreading where the words are displayed on the screen one at a time for a set amount of milliseconds.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:34961/posts/tickl/</link>
+      <link>http://localhost:1313/posts/tickl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34961/posts/tickl/</guid>
-      <description>tickle tickletick</description>
+      <guid>http://localhost:1313/posts/tickl/</guid>
+      <description>tickle tickletick t test test test</description>
     </item>
   </channel>
 </rss>

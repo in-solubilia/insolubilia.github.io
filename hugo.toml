@@ -1,4 +1,4 @@
-baseURL = 'https://insolubilia.blog/'
+baseURL = "https://insolubilia.blog/"
 languageCode = 'en-us'
 title = 'insolubilia'
 theme = 'archie'

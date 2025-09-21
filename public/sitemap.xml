@@ -2,25 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.insolubilia.blog/posts/ikkf/</loc>
+    <loc>http://localhost:34961/posts/how-this-site-was-made/</loc>
+    <lastmod>2025-09-21T14:27:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34961/</loc>
+    <lastmod>2025-09-21T14:27:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34961/posts/</loc>
+    <lastmod>2025-09-21T14:27:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:34961/posts/ikkf/</loc>
     <lastmod>2025-09-20T12:55:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.insolubilia.blog/</loc>
-    <lastmod>2025-09-20T12:55:26+00:00</lastmod>
+    <loc>http://localhost:34961/ikkf/</loc>
   </url><url>
-    <loc>https://www.insolubilia.blog/posts/</loc>
-    <lastmod>2025-09-20T12:55:26+00:00</lastmod>
+    <loc>http://localhost:34961/posts/tickl/</loc>
   </url><url>
-    <loc>https://www.insolubilia.blog/posts/a-phone-should-be-a-joy-to-use/</loc>
-    <lastmod>2025-09-20T12:55:22+00:00</lastmod>
+    <loc>http://localhost:34961/categories/</loc>
   </url><url>
-    <loc>https://www.insolubilia.blog/posts/the-social-survival-guide/</loc>
-    <lastmod>2025-09-19T08:34:42+00:00</lastmod>
-  </url><url>
-    <loc>https://www.insolubilia.blog/ikkf/</loc>
-  </url><url>
-    <loc>https://www.insolubilia.blog/categories/</loc>
-  </url><url>
-    <loc>https://www.insolubilia.blog/tags/</loc>
+    <loc>http://localhost:34961/tags/</loc>
   </url>
 </urlset>

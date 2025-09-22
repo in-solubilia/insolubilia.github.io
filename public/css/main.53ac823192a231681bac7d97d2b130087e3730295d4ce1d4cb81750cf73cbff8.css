@@ -89,6 +89,7 @@ figure {
 
 figure img {
   max-height: 500px;
+  max-width: 25%;
 }
 
 @viewport {

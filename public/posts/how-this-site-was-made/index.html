@@ -18,7 +18,7 @@
 	
 
 	
-	<link rel="stylesheet" type="text/css" media="screen" href="https://insolubilia.blog/css/main.8b955bbecdd5bc2a4ed92d8f0d1a027320badc20ef122390720f8a0ab5a8858e.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://insolubilia.blog/css/main.aecda667dc467670f3ab3d04b627beeb9630e16069ac2412f6e607cf3d2a842c.css" />
 </head>
 <body>
         <div class="content"><header>
@@ -52,7 +52,7 @@
 <pre tabindex="0"><code>rsync -az --delete-after &#34;Obsidian/MyNotes/WebsitePosts/&#34; &#34;MyWebsite/content/posts/&#34;
 cd quickstart
 git init 
-hugo server --buildDrafts --cleanDestinationDir --renderToDisk --baseURL=https://insolubilia.blog/ --appendPort=false 
+hugo --buildDrafts --cleanDestinationDir --baseURL=https://insolubilia.blog/ --appendPort=false 
 git add . --all
 git commit -a -m &#34;new commit&#34;
 git branch -M main
@@ -60,7 +60,7 @@ git remote add origin https://github.com/path/to/my/repo
 git push -f -u origin main
 </code></pre><p>I don&rsquo;t particularly care about version control on my website, so I felt OK with just having the repo folder directly match the Hugo build, and to have the Hugo posts folder directly match the Obsidian folder, and with having Hugo clean up the ten billion CSS files it made as I was messing around with the layout. I also ran into the default Hugo settings plugging my baseURL in correctly about 75% of the time and having a few links still go to localhost after publishing, so the extra commands on the Hugo server line are to fix that. These commands may be redundant or badly constructed. I am totally new to using Hugo + an amateur at Linux, so I am here primarily by the good graces of the tutorial and a mosiac of search results.</p>
 <p>After that, I saved that sync script and configured it to run in response to a keyboard shortcut. So, I can update my website by just pressing ctrl+H.</p>
-<p>I also bought a domain off <a href="https://porkbun.com/">Porkbun</a>. The branding is a bit twee, but the pricing felt much more straightforward than some of the other options that I looked at, and they were given positive (and not astroturf-seeming) reviews on Reddit. Unless things change, this website will cost me a little under 30$/year (with a severe discount on the first year, which a lot of other sites offer, as well; it cost about 2.50$ to start.) The DNS setup (they partner with <a href="https://www.cloudflare.com/">Cloudflare</a> for it) is pretty comparable to what&rsquo;s described in the <a href="https://4rkal.com/posts/thisblog?utm_source=internal&amp;utm_campaign=obsidianhugo">additional tutorial</a>; I added a CNAME and alias record that pointed towards the Render publish. I also really like that on Render&rsquo;s side, it has a clear UI that tells you if the DNS records are configured correctly + if certificates are in place. Speaking of which, as per Render&rsquo;s recommendation, I did also add CAA records for letsencrypt and google. There&rsquo;s a tutorial on the DNS section of Render&rsquo;s site management page that shows how to do it.</p>
+<p>I also bought a domain off <a href="https://porkbun.com/">Porkbun</a>. The branding is a bit twee, but the pricing felt much more straightforward than some of the other options that I looked at, and they were given positive (and not astroturf-seeming) reviews on Reddit. Unless things change, this website will cost me a little under 30$/year (with a severe discount on the first year, which a lot of other sites offer, as well; it cost about 2.50$ to start.) The DNS setup (they partner with <a href="https://www.cloudflare.com/">Cloudflare</a> for it) is pretty comparable to what&rsquo;s described in the <a href="https://4rkal.com/posts/thisblog?utm_source=internal&amp;utm_campaign=obsidianhugo">additional tutorial</a>; I added CNAME and alias records that pointed towards the Render publish. I also really like that on Render&rsquo;s side, it has a clear UI that tells you if the DNS records are configured correctly + if certificates are in place. Speaking of which, as per Render&rsquo;s recommendation, I did also add CAA records for letsencrypt and google. There&rsquo;s a tutorial on the DNS section of Render&rsquo;s site management page that shows how to do it.</p>
 <p>This site&rsquo;s theme is an adjusted version of <a href="https://github.com/athul/archie">Archie</a>. I just added the Flammarion engraving as a new div called &ldquo;logo&rdquo; in the theme&rsquo;s head layout (<code>MyWebsite/themes/archie/layouts/partials/head.html</code>) Like so:</p>
 <pre tabindex="0"><code>&lt;header&gt;
 	&lt;div class=&#34;main&#34;&gt;
@@ -68,16 +68,9 @@ git push -f -u origin main
 		&lt;div class=&#34;logo&#34;&gt;&lt;img src=&#34;{{ absURL &#34;../flammarion.png&#34; }}&#34;&gt;&lt;/img&gt;&lt;/div&gt;
 	&lt;/div&gt;
 	&lt;nav&gt;
-		{{ range .Site.Menus.main }}
-		&lt;a href=&#34;{{ .URL }}&#34;&gt;{{ .Name }}&lt;/a&gt;
-		{{ end }}
-		{{ if eq .Site.Params.mode &#34;toggle&#34; -}}
-	| &lt;span id=&#34;dark-mode-toggle&#34; onclick=&#34;toggleTheme()&#34;&gt;{{template &#34;feathericon&#34; (dict &#34;UseCDN&#34; .Site.Params.useCDN &#34;Icon&#34; &#34;sun&#34;) }}&lt;/span&gt;
-		&lt;script src=&#34;{{ absURL &#34;js/themetoggle.js&#34; }}&#34;&gt;&lt;/script&gt;
-		{{ end }}
-	&lt;/nav&gt;
+		...
 &lt;/header&gt;
-</code></pre><p>And added to the css (<code>MyWebsite/themes/archie/assets/css/main.css)</code>:</p>
+</code></pre><p>And added to the css (<code>MyWebsite/themes/archie/assets/css/main.css</code>):</p>
 <pre tabindex="0"><code>.logo {
 	position: absolute;
 	right: 0;
@@ -88,7 +81,8 @@ git push -f -u origin main
 .logo img {
 	outline: 10px outset var(--accent);
 	}
-</code></pre>
+</code></pre><p>I may update this document as I make further tweaks to the config.</p>
+
         </section>
         <div class="post-tags">
           

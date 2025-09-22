@@ -124,6 +124,10 @@ p {
 list{
 	font-size: 12px;
 }
+img{
+	max-width: 150px;
+	}
+
 }
 
 figure h4 {

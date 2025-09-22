@@ -113,9 +113,10 @@ font-size: 12px;
 }
 
 .content {
-	width: 500px;
+	width: 95%;
 	font-size: 12px;
 	margin: auto;
+	outline-width: 3px;
 }
 
 p {
@@ -127,6 +128,7 @@ list{
 }
 img{
 	max-width: 50px;
+	outline-width: 3px;
 	}
 
 }

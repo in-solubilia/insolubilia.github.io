@@ -169,7 +169,7 @@ pre code {
 
 /* Containers */
 .content {
-  width: 75%;
+  width: 50%;
   height: 75%;
   background-color: var(--darkBG);
   outline: 10px outset var(--accent);

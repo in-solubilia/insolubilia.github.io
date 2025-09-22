@@ -20,7 +20,7 @@ After getting Hugo set up, my Github repo set up, and my Render account set up a
 rsync -az --delete-after "Obsidian/MyNotes/WebsitePosts/" "MyWebsite/content/posts/"
 cd quickstart
 git init 
-hugo --buildDrafts --cleanDestinationDir --baseURL=https://insolubilia.blog/ --appendPort=false 
+hugo --buildDrafts --cleanDestinationDir --baseURL=https://insolubilia.blog/ 
 git add . --all
 git commit -a -m "new commit"
 git branch -M main

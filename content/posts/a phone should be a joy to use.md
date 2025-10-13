@@ -12,7 +12,7 @@ Time is money, and your attention is easily spent.  In a survey of a little over
 
 The inability to escape from the slough trough of social media is a mulched horse. Other people have written about it before me and better. I've enjoyed "[How the Devil Stole My Eyes](https://youngvulgarian.substack.com/p/how-the-devil-stole-my-eyes)" and a couple more articles that I'll come back and add here when I remember them.
 
-But what can I do beyond just kvetching about it? How can I make my phone a tool, rather than a timesink? And how do I break my bad habits? This problem makes me think of the [Rat Park](https://link.springer.com/article/10.1007/BF00431995) and its observations on environmental enrichment: would I want the sweet morphine-drip of social media if I had genuinely good things going on in my social life?
+But what can I do beyond just kvetching about it? How can I make my phone a tool, rather than a timesink? And how do I break my bad habits? (This problem in particular makes me think of the [Rat Park](https://link.springer.com/article/10.1007/BF00431995) and its observations on environmental enrichment: would I want the sweet morphine-drip of social media if I had genuinely good things going on in my social life?
 
 ## COLD TURKEY
 

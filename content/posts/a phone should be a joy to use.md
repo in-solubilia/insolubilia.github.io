@@ -24,7 +24,7 @@ For inexplicable reasons, I do not like the screen time management tools baked i
 
 I don't use social media on my phone via apps anymore. I try to exclusively use them via the browser, and I turn off infinite scrolling if given the option. Having to press "next page" each time I want a new platter of content makes me stop and think about if that's the best idea.
 
-This also means that I don't get push notifications. I think it really depends on the person as to if push notifications are annoying or not; depending on how tuned-in you are, you might end up reflexively refreshing your activity page far more often than you would have if the phone forwarded that information to you. A semi-compromise is turning email notifications on, but that usually comes with an awful slew of promo content so I generally do not opt for that.
+This also means that I don't get push notifications. I think it really depends on the person as to if push notifications are annoying or not; depending on how tuned-in you are, you might end up reflexively refreshing your activity page far more often than you would have if the phone forwarded that information to you. A semi-compromise is turning email notifications on, but that usually comes with an awful slew of promo content, so I generally do not opt for that.
 
 ## DULLNESS
 

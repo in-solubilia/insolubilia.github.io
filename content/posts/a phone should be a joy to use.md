@@ -38,7 +38,7 @@ Unfortunately, the tint mode did not play nice with the widget-building apps I u
 
 ## RSS FOREVER
 
-Get out of the silos! Follow personal websites! Trawl around on neocities and git pages and whatever! I have found so many more incredible things this year solely because I collated an RSS feed. There's a good handful of reader apps out there, but the one I like is [feeeed](https://feeeed.nateparrott.com/). I use the purely chronological feed and a dark reader mode. There is AI integration in an article summarization tab, but it is completely ignorable.  (If I save an article, I want to be able to cite from it, so I need to actually read it and not substitute with a summarization.) It also has the ability to follow non-RSS-enabled websites by making little refreshable pucks for them, so that's fun.
+Get out of the silos! Follow personal websites! Trawl around on neocities and git pages and whatever! I have found so many more incredible things this year solely because I began collecting feeds. There's a good handful of reader apps out there, but the one I like is [feeeed](https://feeeed.nateparrott.com/). I use the purely chronological feed and a dark reader mode. There is AI integration in an article summarization tab, but it is completely ignorable.  (If I save an article, I want to be able to cite from it, so I need to actually read it and not substitute with a summarization.) It also has the ability to follow non-RSS-enabled websites by making little refreshable pucks for them, so that's fun.
 
 I've also tried [RSS Mobile](https://apps.apple.com/us/app/rss-mobile/id533007246) since it has more flexible grouping features. I've been experimenting with moving Bluesky follows into it, but X no longer seems to support RSS access and the app itself doesn't really show images from posts, so it isn't optimal for following the artists that I like across multiple platforms. I'm still looking for a nice solution for this.
 
@@ -49,6 +49,7 @@ A commonality across the dephoning articles I've read is re-acquaintanceship wit
 I quite enjoyed this writeup on the [jhanas](https://nadia.xyz/jhanas#jhanas-are-learned-by-doing-not-reading). Focus may behave like a muscle; it needs to be flexed. Short-form content is a constant and bewildering context swap, and meditation is the opposite. You do one thing until you stop doing it, and that's it. 
 
 I am sure that there are decent meditation apps out there, but there are also thousands of free videos on YouTube, and you probably only need an app if you think the buy-in will spur you to use it. I will say, however, that I've had quite anxious responses to guided meditation. I am a baseline anxious person anyway, and actually giving my focus to the persistent neurotic underthrum made me feel, at first, much worse. So, consider your own temperament, and understand that you may be in confrontation with yourself.
+
 ## TLDR TABLE
 
 | Solution                                                                         | Pros                                                              | Cons                                                                                     | Adjustments                                                                                                                                                  |

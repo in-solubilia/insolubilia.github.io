@@ -44,7 +44,7 @@ I've also tried [RSS Mobile](https://apps.apple.com/us/app/rss-mobile/id53300724
 
 ## WOO WARNING
 
-A commonality across the dephoning articles I've read is re-acquaintanceship with boredom. If I can't check to see if another world war has started yet while I'm in the bathroom, then what should I even do with myself?! Pee as expediently as possible, probably. And wash my hands and get back to life. Boredom also means that for lack of better options I might actually stop and Ponder things. I might even have the time to do, like, meditation. 
+A commonality across the dephoning articles I've read is re-acquaintanceship with boredom. If I can't check to see if another world war has started yet while I'm in the bathroom, then what should I even do with myself?! Be bored for a few seconds and pee as expediently as possible, probably. And wash my hands and get back to life. Boredom also means that for lack of better options I might actually stop and Ponder things. I might even have the time to do, like, meditation. 
 
 I quite enjoyed this writeup on the [jhanas](https://nadia.xyz/jhanas#jhanas-are-learned-by-doing-not-reading). Focus may behave like a muscle; it needs to be flexed. Short-form content is a constant and bewildering context swap, and meditation is the opposite. You do one thing until you stop doing it, and that's it. 
 

@@ -42,7 +42,7 @@ Get out of the silos! Follow personal websites! Trawl around on neocities and gi
 
 I've also tried [RSS Mobile](https://apps.apple.com/us/app/rss-mobile/id533007246) since it has more flexible grouping features. I've been experimenting with moving Bluesky follows into it, but X no longer seems to support RSS access and the app itself doesn't really show images from posts, so it isn't optimal for following the artists that I like across multiple platforms. I'm still looking for a nice solution for this.
 
-## WOO WARNING
+## MUSCLE/MIND
 
 A commonality across the dephoning articles I've read is re-acquaintanceship with boredom. If I can't check to see if another world war has started yet while I'm in the bathroom, then what should I even do with myself?! Be bored for a few seconds and pee as expediently as possible, probably. And wash my hands and get back to life. Boredom also means that for lack of better options I might actually stop and Ponder things. I might even have the time to do, like, meditation. 
 

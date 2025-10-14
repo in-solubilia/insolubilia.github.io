@@ -30,7 +30,7 @@ This also means that I don't get push notifications. I think it really depends o
 
 ## DULLNESS
 
-I really love the new IOS tinted mode. I have seen people decide to fully enable grayscale mode on the phone, but I'd like to be able to see how my own photos look without going and changing my settings around.
+I really love the new IOS tinted mode. I have also seen people decide to fully enable grayscale mode on the phone, but I'd like to be able to see how my own photos look without going and changing my settings around.
 
 To enable: Hold-tap on your home screen → Upper left hand Edit menu → Customize → Tinted → Choose a soothing color → Voila, no red alert notification bubbles on things, and all your apps look nice and uniform. 
 

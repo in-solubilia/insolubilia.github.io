@@ -97,41 +97,7 @@ figure img {
 	zoom: 1.0;
 }
 
-@media screen and (min-width: 600px) {
-  figure {
-    padding: 0 40px;
-  }
-}
 
-@media only screen and (max-width: 600px) {
-body {
-width: 100%;
-}
-
-html {
-font-size: 12px;
-}
-
-.content {
-	width: 95%;
-	font-size: 12px;
-	margin: auto;
-	outline-width: 3px;
-}
-
-p {
-	font-size: 12px;
-}
-
-list{
-	font-size: 12px;
-}
-img{
-	max-width: 50px;
-	outline-width: 3px;
-	}
-
-}
 
 figure h4 {
   font-size: 1rem;
@@ -476,4 +442,41 @@ table td{
   stroke-linecap: round;
   stroke-linejoin: round;
   fill: none;
+}
+
+
+@media screen and (min-width: 600px) {
+  figure {
+    padding: 0 40px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+body {
+width: 100%;
+}
+
+html {
+font-size: 12px;
+}
+
+.content {
+	width: 95%;
+	font-size: 12px;
+	margin: auto;
+	outline-width: 3px;
+}
+
+p {
+	font-size: 12px;
+}
+
+list{
+	font-size: 12px;
+}
+img{
+	max-width: 50px;
+	outline-width: 3px;
+	}
+
 }

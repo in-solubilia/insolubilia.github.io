@@ -24,7 +24,7 @@ For inexplicable reasons, I do not like the screen time management tools baked i
 
 ## FRICTION
 
-I don't use social media on my phone via apps anymore. I try to exclusively use them via the browser, and I turn off infinite scrolling if given the option. Having to press "next page" each time I want a new platter of content makes me stop and think about if that's the best idea.
+I don't use social media on my phone via apps anymore. I try to exclusively use them via the browser, and I turn off infinite scrolling if given the option. Having to press "next page" each time I want a new platter of content makes me stop and think about if that's the best idea. Some platforms are also actively hostile towards any attempts to use them in browsers. This helps!
 
 This also means that I don't get push notifications. I think it really depends on the person as to if push notifications are annoying or not; depending on how tuned-in you are, you might end up reflexively refreshing your activity page far more often than you would have if the phone forwarded that information to you. A semi-compromise is turning email notifications on, but that usually comes with an awful slew of promo content, so I generally do not opt for that.
 
@@ -38,7 +38,7 @@ Unfortunately, the tint mode did not play nice with the widget-building apps I u
 
 ## RSS FOREVER
 
-Get out of the silos! Follow personal websites! Trawl around on neocities and git pages and whatever! I have found so many more incredible things this year solely because I began collecting feeds. There's a good handful of reader apps out there, but the one I like is [feeeed](https://feeeed.nateparrott.com/). I use the purely chronological feed and a dark reader mode. There is AI integration in an article summarization tab, but it is completely ignorable.  (If I save an article, I want to be able to cite from it, so I need to actually read it and not substitute with a summarization.) It also has the ability to follow non-RSS-enabled websites by making little refreshable pucks for them, so that's fun.
+Get out of the silos! Follow personal websites! Trawl around on neocities and git pages and whatever! I have found so many more incredible things this year solely because I began collecting RSS feeds. There's a good handful of reader apps out there, but the one I like is [feeeed](https://feeeed.nateparrott.com/). I use the purely chronological feed and a dark reader mode. There is AI integration in an article summarization tab, but it is completely ignorable.  (If I save an article, I want to be able to cite from it, so I need to actually read it and not substitute with a summarization.) It also has the ability to follow non-RSS-enabled websites by making little refreshable pucks for them, so that's fun.
 
 I've also tried [RSS Mobile](https://apps.apple.com/us/app/rss-mobile/id533007246) since it has more flexible grouping features. I've been experimenting with moving Bluesky follows into it, but X no longer seems to support RSS access and the app itself doesn't really show images from posts, so it isn't optimal for following the artists that I like across multiple platforms. I'm still looking for a nice solution for this.
 

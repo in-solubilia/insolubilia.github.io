@@ -630,7 +630,6 @@ elements.fileInput.addEventListener('change', function(e) {
     const file = e.target.files[0];
     if (file) {
         if (file.type === 'text/plain') {
-            elements.loadingOverlay.style.display = 'none';
             currentFileName = file.name.replace('.txt', ''); 
             const reader = new FileReader();
             reader.onload = function(e) {

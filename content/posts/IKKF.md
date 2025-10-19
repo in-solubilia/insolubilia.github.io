@@ -68,3 +68,5 @@ Future Goals:
 - Add full hover tooltips
 - Add mobile support?
 - Fix remaining CSS funkiness...
+
+Tickle!

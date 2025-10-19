@@ -6,8 +6,15 @@
     <description>Recent content in Posts on insolubilia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Oct 2025 12:55:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 12:55:26 +0000</lastBuildDate>
     <atom:link href="https://insolubilia.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ikkf!</title>
+      <link>https://insolubilia.blog/posts/ikkf/</link>
+      <pubDate>Sun, 19 Oct 2025 12:55:26 +0000</pubDate>
+      <guid>https://insolubilia.blog/posts/ikkf/</guid>
+      <description>IKKF: An RSVP reader with extra features such as capturing highlights and taking notes. This tool is meant to be usable both online and offline. CSS/HTML/Javascript are all on the page&amp;ndash; if you want, you can save it and use it on your own.&#xA;RSVP, or rapid serial visual presentation, is a method of speedreading where the words are displayed on the screen one at a time for a set amount of milliseconds.</description>
+    </item>
     <item>
       <title>a phone should be a joy to use</title>
       <link>https://insolubilia.blog/posts/a-phone-should-be-a-joy-to-use/</link>
@@ -21,13 +28,6 @@
       <pubDate>Sun, 21 Sep 2025 14:27:15 +0000</pubDate>
       <guid>https://insolubilia.blog/posts/how-this-site-was-made/</guid>
       <description>I like Neocities. Unfortunately, I am also lazy, and the (admittedly minimal) sequence of operations needed to upkeep Zonelets + ZoneRSS had me wondering if things could be easier.&#xA;4rkal has a fantastic guide for publishing an Obsidian vault to a website via Hugo, a Github repo, and Render, and this guide was pretty much all I needed, save for a few adjustments.&#xA;Obsidian is packed with features, which also leads to it having a reputation for a high learning curve; to either my own advantage or detriment, I hardly use any of them.</description>
-    </item>
-    <item>
-      <title>ikkf!</title>
-      <link>https://insolubilia.blog/posts/ikkf/</link>
-      <pubDate>Sat, 20 Sep 2025 12:55:26 +0000</pubDate>
-      <guid>https://insolubilia.blog/posts/ikkf/</guid>
-      <description>IKKF: An RSVP reader with extra features such as capturing highlights and taking notes. This tool is meant to be usable both online and offline. CSS/HTML/Javascript are all on the page&amp;ndash; if you want, you can save it and use it on your own.&#xA;RSVP, or rapid serial visual presentation, is a method of speedreading where the words are displayed on the screen one at a time for a set amount of milliseconds.</description>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 ---
 title: ikkf!
 description: " An RSVP reader with extra features such as capturing highlights and taking notes."
-date: 2025-09-20T12:55:26+00:00
+date: 2025-10-19T12:55:26+00:00
 draft: false
 ---
 [IKKF](/IKKF.html): An RSVP reader with extra features such as capturing highlights and taking notes. This tool is meant to be usable both online and offline. CSS/HTML/Javascript are all on the page-- if you want, you can save it and use it on your own.  
@@ -15,6 +15,15 @@ I am a big amateur so the code in this is probably not as clean as it could be. 
 Other cool RSVP projects: [Hot Gato](https://hotgato.com/), [Stutter Firefox addon](https://addons.mozilla.org/en-US/firefox/addon/stutter/reviews/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-reviews-link)
 
 I K K F = I Know Kung Fu... :)
+
+10/19/25:
+
+- Added trim options to highlighted notes
+- Added the ability to read EPUB files!
+- Any images in the file are shown in the reading pane and paused on until space/play is pressed
+- Images can also be captured in highlights!
+- If you do have images in your highlights, your export will have a .zip with the .mk and any images captured
+- Images are shown with small thumbnails in the highlights pane
 
 8/21/25:
 
@@ -49,17 +58,13 @@ I K K F = I Know Kung Fu... :)
 
 Future Goals: 
 
-- Add save support for other filetypes
 - Add ability to take .html files, such as the ones captured by [Shiori](https://github.com/go-shiori/shiori)
-- Add ability to take epub files
-- Add support for displaying and pausing on images
 - Add user input for enabling/disabling/adjusting the extra punctuation and long word pauses
+- Add user input to fully pause on images or wait for a selected # of seconds before continuing
 - The time estimate is for sure busted, need to fix
 - Add easily accessible download link for offline use
 - Add option to have a longer pause for numbers/statistics
 - Add option to have "focus" letter in center of word chunk
 - Add full hover tooltips
-- Add post-creation edit to manual notes
-- Add reverse/undo functionality to the note expansion buttons
 - Add mobile support?
 - Fix remaining CSS funkiness...
